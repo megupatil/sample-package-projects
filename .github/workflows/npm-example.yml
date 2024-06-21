@@ -1,4 +1,5 @@
 #Project Name#
+#For CU#
 name: Push NPM Build to Artifactory
 on: workflow_dispatch
 permissions:
